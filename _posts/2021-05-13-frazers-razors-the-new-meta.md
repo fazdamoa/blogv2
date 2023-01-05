@@ -1,4 +1,9 @@
-
+---
+layout: single
+title:  "Frasers razors, the new meta"
+date:   2022-02-11 11:30:56 +0000
+categories: jekyll update
+---
 ### [Frazer’s Razors – The NEW META?](https://fazthebro.com/2021/05/13/frazers-razors-the-new-meta/)
 
 6 months ago I decided to ditch the ol’ Gillette Mach III and get the cheapest razor I could buy – the BIC 20 pack. Isn’t a razor just a razor? Isn’t stainless steel just stainless steel? Let’s find out.  
